@@ -1,0 +1,174 @@
+Landmarks	Description	X-Pos	Y-Pos	Z-Pos
+Overbite		0.00000mm	0.00000mm	0.00000mm
+18d	Distal point of largest mesio-distal crown diameter of 18	
+18db	Distal Buccal Cusp of 18	
+18vMG	Vestibular Gingival Margin of 18	
+apRot18	Apical Rotation Point of Long Axis of 18	
+18mb	Mesial Buccal Cusp of 18	
+18m	Mesial Point of 18	
+17d	Distal point of largest mesio-distal crown diameter of 17	-26.90610mm	3.46310mm	-19.53801mm
+17db	Distal Buccal Cusp of 17	-29.14640mm	1.75133mm	-16.36699mm
+17vMG	Vestibular Gingival Margin of 17	-28.19370mm	7.99446mm	-14.53903mm
+apRot17	Apical Rotation Point of Long Axis of 17	-20.77990mm	16.52780mm	-17.40693mm
+17mb	Mesial Buccal Cusp of 17	-28.75976mm	1.12898mm	-12.31515mm
+17m	Mesial Point of 17	-24.34447mm	3.31391mm	-11.15992mm
+16d	Distal point of largest mesio-distal crown diameter of 16	-25.69429mm	3.43002mm	-10.26854mm
+16db	Distal Buccal Cusp of 16	-26.17648mm	0.44739mm	-6.70991mm
+16vMG	Vestibular Gingival Margin of 16	-26.01967mm	6.80667mm	-3.68415mm
+apRot16	Apical Rotation Point of Long Axis of 16	-20.58959mm	21.21857mm	-6.86783mm
+16mb	Mesial Buccal Cusp of 16	-23.25248mm	0.58204mm	-1.96844mm
+16mP	Mesial Point of 16	-20.70489mm	2.89121mm	-1.59704mm
+15d	Distal point of largest mesio-distal crown diameter of 15	-22.81001mm	1.80314mm	0.16342mm
+15vMG	Vestibular Gingival Margin of 15	-23.14031mm	6.23112mm	3.96740mm
+15b	Buccal Cusp of 15	-23.11249mm	-1.06687mm	2.55994mm
+apRot15	Apical Rotation Point of Long Axis of 15	-20.20208mm	15.16681mm	2.27557mm
+15m	Mesial Point of 15	-20.42731mm	2.06503mm	5.73361mm
+14d	Distal point of largest mesio-distal crown diameter of 14	-20.62311mm	1.91511mm	5.99961mm
+14vMG	Vestibular Gingival Margin of 14	-21.06195mm	4.81772mm	10.58898mm
+14b	Buccal Cusp of 14	-19.47496mm	-2.10366mm	8.83139mm
+apRot14	Apical Rotation Point of Long Axis of 14	-18.93949mm	20.26328mm	7.23695mm
+14m	Mesial Point of 14	-17.16432mm	1.32251mm	11.54042mm
+13d	Distal point of largest mesio-distal crown diameter of 13	-17.57146mm	1.41602mm	11.70484mm
+13vMG	Vestibular Gingival Margin of 13	-17.62881mm	7.82362mm	15.49021mm
+13C	Cusp of 13	-16.45391mm	-1.92507mm	15.99145mm
+apRot13	Apical Rotation Point of Long Axis of 13	-12.44637mm	24.11275mm	7.79655mm
+13m	Mesial Point of 13	-13.35024mm	2.52581mm	17.73763mm
+12d	Distal point of largest mesio-distal crown diameter of 12	-13.64272mm	1.96286mm	18.27439mm
+12vMG	Vestibular Gingival Margin of 12	-11.47910mm	7.17591mm	21.28186mm
+12I	Incisal Edge of 12	-11.19331mm	-1.41521mm	21.54815mm
+apRot12	Apical Rotation Point of Long Axis of 12	-8.62416mm	22.36205mm	13.41586mm
+12m	Mesial Point of 12	-7.71424mm	1.73116mm	21.49210mm
+11d	Distal point of largest mesio-distal crown diameter of 11	-7.77445mm	2.07661mm	22.08529mm
+11vMG	Vestibular Gingival Margin of 11	-4.44739mm	7.47228mm	24.27980mm
+11I	Incisal Edge of 11	-3.91679mm	-1.68047mm	23.51461mm
+apRot11	Apical Rotation Point of Long Axis of 11	-4.32792mm	22.11915mm	16.58695mm
+11m	Mesial Point of 11	0.03994mm	2.29725mm	22.79328mm
+21m	Mesial Point of 21	0.10120mm	1.98257mm	23.87123mm
+21I	Incisal Edge of 21	4.09968mm	-1.96488mm	24.70606mm
+21vMG	Vestibular Gingival Margin of 21	4.63664mm	7.20929mm	25.13767mm
+apRot21	Apical Rotation Point of Long Axis of 21	4.57295mm	22.17495mm	17.35010mm
+21d	Distal point of largest mesio-distal crown diameter of 21	8.20483mm	1.68669mm	22.85368mm
+22m	Mesial Point of 22	8.28209mm	1.74207mm	22.42286mm
+22I	Incisal Edge of 22	11.23124mm	-1.62491mm	21.91103mm
+22vMG	Vestibular Gingival Margin of 22	12.30326mm	6.87370mm	21.14655mm
+apRot22	Apical Rotation Point of Long Axis of 22	9.16707mm	21.66458mm	13.22003mm
+22d	Distal point of largest mesio-distal crown diameter of 22	13.19226mm	0.90439mm	18.29591mm
+23m	Mesial Point of 23	12.88220mm	2.62361mm	17.78148mm
+23C	Cusp of 23	15.24180mm	-1.48225mm	18.05936mm
+23vMG	Vestibular Gingival Margin of 23	17.72122mm	7.96630mm	16.07494mm
+apRot23	Apical Rotation Point of Long Axis of 23	13.70627mm	24.19636mm	5.91076mm
+23d	Distal point of largest mesio-distal crown diameter of 23	17.99096mm	1.38346mm	12.49467mm
+24m	Mesial Point of 24	17.83442mm	1.75758mm	12.33743mm
+apRot24	Apical Rotation Point of Long Axis of 24	17.90349mm	19.60772mm	8.17381mm
+24b	Buccal Cusp of 24	20.25398mm	-1.30048mm	9.76396mm
+24vMG	Vestibular Gingival Margin of 24	21.27926mm	5.90980mm	11.07889mm
+24d	Distal point of largest mesio-distal crown diameter of 24	21.00629mm	2.37421mm	7.03778mm
+25m	Mesial Point of 25	21.11318mm	2.58028mm	6.84719mm
+apRot25	Apical Rotation Point of Long Axis of 25	20.51201mm	16.99286mm	2.24477mm
+25b	Buccal Cusp of 25	23.22218mm	-0.91670mm	4.07142mm
+25vMG	Vestibular Gingival Margin of 25	24.46539mm	6.06009mm	4.49342mm
+25d	Distal point of largest mesio-distal crown diameter of 25	23.09651mm	2.35471mm	0.84793mm
+26mP	Mesial Point of 26	23.03332mm	2.16401mm	0.78128mm
+26mb	Mesial Buccal Cusp of 26	25.49878mm	-0.43621mm	-0.12802mm
+26vMG	Vestibular Gingival Margin of 26	27.63268mm	5.73401mm	-1.94759mm
+apRot26	Apical Rotation Point of Long Axis of 26	20.65141mm	21.67268mm	-5.92157mm
+26db	Distal Buccal Cusp of 26	27.21843mm	-0.13226mm	-5.39615mm
+26d	Distal point of largest mesio-distal crown diameter of 26	25.26885mm	2.39961mm	-8.74389mm
+27m	Mesial Point of 27	24.99874mm	3.11477mm	-8.79356mm
+27mb	Mesial Buccal Cusp of 27	28.86156mm	0.89955mm	-8.92262mm
+27vMG	Vestibular Gingival Margin of 27	26.64009mm	7.73945mm	-12.40167mm
+apRot27	Apical Rotation Point of Long Axis of 27	21.50618mm	16.72974mm	-13.55419mm
+27db	Distal Buccal Cusp of 27	29.37218mm	1.92085mm	-14.36081mm
+27d	Distal point of largest mesio-distal crown diameter of 27	26.83527mm	3.70668mm	-17.07397mm
+28m	Mesial Point of 28	
+28mb	Mesial Buccal Cusp of 28	
+28vMG	Vestibular Gingival Margin of 28	
+apRot28	Apical Rotation Point of Long Axis of 28	
+28db	Distal Buccal Cusp of 28	
+28d	Distal point of largest mesio-distal crown diameter of 28	
+38d	Distal point of largest mesio-distal crown diameter of 38	
+38db	Distal Buccal Cusp of 38	
+38vMG	Vestibular Gingival Margin of 38	
+apRot38	Apical Rotation Point of Long Axis of 38	
+38mb	Mesial Buccal Cusp of 38	
+38m	Mesial Point of 38	
+37d	Distal point of largest mesio-distal crown diameter of 37	24.50714mm	-0.67572mm	-18.94166mm
+37db	Distal Buccal Cusp of 37	26.45057mm	1.69719mm	-14.09925mm
+37vMG	Vestibular Gingival Margin of 37	28.71345mm	-4.08231mm	-13.38405mm
+apRot37	Apical Rotation Point of Long Axis of 37	26.32151mm	-15.87871mm	-17.77508mm
+37mb	Mesial Buccal Cusp of 37	24.81583mm	0.81195mm	-9.54941mm
+37m	Mesial Point of 37	22.69949mm	-2.35999mm	-8.73619mm
+36d	Distal point of largest mesio-distal crown diameter of 36	22.86958mm	-2.71313mm	-8.68012mm
+36db	Distal Buccal Cusp of 36	23.27383mm	-0.14126mm	-3.12086mm
+36vMG	Vestibular Gingival Margin of 36	25.73043mm	-4.92005mm	-1.24852mm
+apRot36	Apical Rotation Point of Long Axis of 36	23.38838mm	-20.85080mm	-4.34501mm
+36mb	Mesial Buccal Cusp of 36	20.62458mm	0.05046mm	0.81335mm
+36mP	Mesial Point of 36	18.79719mm	-2.33850mm	1.41682mm
+35d	Distal point of largest mesio-distal crown diameter of 35	20.01022mm	-2.15578mm	1.98273mm
+apRot35	Apical Rotation Point of Long Axis of 35	20.66057mm	-21.40034mm	2.62762mm
+35vMG	Vestibular Gingival Margin of 35	20.91571mm	-5.73465mm	7.27843mm
+35b	Buccal Cusp of 35	17.94118mm	0.51167mm	6.35635mm
+35m	Mesial Point of 35	15.57113mm	-2.84610mm	7.69670mm
+34d	Distal point of largest mesio-distal crown diameter of 34	18.80909mm	-3.58420mm	9.10529mm
+apRot34	Apical Rotation Point of Long Axis of 34	15.34953mm	-22.60300mm	11.13875mm
+34vMG	Vestibular Gingival Margin of 34	17.76068mm	-7.70706mm	13.59578mm
+34b	Buccal Cusp of 34	16.60855mm	-0.01692mm	11.66354mm
+34m	Mesial Point of 34	13.52680mm	-2.79024mm	13.42780mm
+33d	Distal point of largest mesio-distal crown diameter of 33	13.86207mm	-2.59522mm	13.74265mm
+apRot33	Apical Rotation Point of Long Axis of 33	12.01918mm	-24.45197mm	10.82086mm
+33vMG	Vestibular Gingival Margin of 33	13.19717mm	-9.70331mm	17.11801mm
+33C	Cusp of 33	10.67252mm	0.10423mm	18.20728mm
+33m	Mesial Point of 33	9.49308mm	-3.38290mm	18.57467mm
+32d	Distal point of largest mesio-distal crown diameter of 32	10.41992mm	-3.39230mm	20.03750mm
+apRot32	Apical Rotation Point of Long Axis of 32	3.08379mm	-19.94733mm	11.68431mm
+32vMG	Vestibular Gingival Margin of 32	6.28363mm	-8.50667mm	20.20930mm
+32I	Incisal Edge of 32	8.17333mm	-0.60948mm	21.35097mm
+32m	Mesial Point of 32	4.89851mm	-2.04148mm	20.35037mm
+31d	Distal point of largest mesio-distal crown diameter of 31	4.97992mm	-2.52729mm	21.38426mm
+apRot31	Apical Rotation Point of Long Axis of 31	0.81833mm	-18.27812mm	13.21307mm
+31vMG	Vestibular Gingival Margin of 31	1.93605mm	-7.42454mm	21.14116mm
+31I	Incisal Edge of 31	2.89084mm	-0.17609mm	22.81395mm
+31m	Mesial Point of 31	0.22230mm	-1.66975mm	21.20571mm
+41m	Mesial Point of 41	0.09222mm	-1.96015mm	20.21736mm
+apRot41	Apical Rotation Point of Long Axis of 41	-1.57298mm	-19.13741mm	14.36902mm
+41vMG	Vestibular Gingival Margin of 41	-1.97142mm	-7.43710mm	20.68250mm
+41I	Incisal Edge of 41	-2.29005mm	-0.03827mm	21.86814mm
+41d	Distal point of largest mesio-distal crown diameter of 41	-4.58306mm	-2.40691mm	20.35650mm
+42m	Mesial Point of 42	-4.53905mm	-1.80892mm	20.06592mm
+apRot42	Apical Rotation Point of Long Axis of 42	-4.28528mm	-20.10391mm	13.23673mm
+42vMG	Vestibular Gingival Margin of 42	-6.48348mm	-7.90270mm	19.76713mm
+42I	Incisal Edge of 42	-7.47838mm	0.19887mm	20.55119mm
+42d	Distal point of largest mesio-distal crown diameter of 42	-10.05324mm	-2.37382mm	19.56035mm
+43m	Mesial Point of 43	-9.84852mm	-3.48343mm	18.81038mm
+apRot43	Apical Rotation Point of Long Axis of 43	-12.54183mm	-23.39572mm	10.44372mm
+43vMG	Vestibular Gingival Margin of 43	-13.14793mm	-9.63770mm	17.48050mm
+43C	Cusp of 43	-11.06915mm	0.10392mm	18.80762mm
+43d	Distal point of largest mesio-distal crown diameter of 43	-14.83859mm	-2.58093mm	14.75817mm
+44m	Mesial Point of 44	-14.22535mm	-3.09085mm	14.21846mm
+apRot44	Apical Rotation Point of Long Axis of 44	-18.29391mm	-20.93273mm	7.89279mm
+44vMG	Vestibular Gingival Margin of 44	-18.77880mm	-7.03967mm	11.83526mm
+44b	Buccal Cusp of 44	-15.28922mm	0.53336mm	11.68516mm
+44d	Distal point of largest mesio-distal crown diameter of 44	-17.10348mm	-2.34988mm	8.09478mm
+45m	Mesial Point of 45	-16.18845mm	-3.27090mm	7.76932mm
+apRot45	Apical Rotation Point of Long Axis of 45	-21.59836mm	-21.80536mm	2.39875mm
+45vMG	Vestibular Gingival Margin of 45	-21.62682mm	-5.58044mm	6.22790mm
+45b	Buccal Cusp of 45	-18.44317mm	0.38356mm	5.31481mm
+45d	Distal point of largest mesio-distal crown diameter of 45	-19.06291mm	-2.63780mm	1.30692mm
+46mP	Mesial Point of 46	-19.16711mm	-2.39139mm	1.38365mm
+46mb	Mesial Buccal Cusp of 46	-20.70436mm	0.17510mm	0.46638mm
+46vMG	Vestibular Gingival Margin of 46	-26.14150mm	-4.20573mm	-1.77034mm
+apRot46	Apical Rotation Point of Long Axis of 46	-25.11426mm	-19.69402mm	-4.42341mm
+46db	Distal Buccal Cusp of 46	-22.76287mm	0.32506mm	-3.46305mm
+46d	Distal point of largest mesio-distal crown diameter of 46	-22.64361mm	-2.57079mm	-8.72720mm
+47m	Mesial Point of 47	-23.02798mm	-2.21283mm	-8.67408mm
+47mb	Mesial Buccal Cusp of 47	-25.00672mm	1.77270mm	-11.37862mm
+47vMG	Vestibular Gingival Margin of 47	-29.45408mm	-2.83153mm	-12.93488mm
+apRot47	Apical Rotation Point of Long Axis of 47	-30.09825mm	-16.17895mm	-16.12357mm
+47db	Distal Buccal Cusp of 47	-25.99019mm	2.04184mm	-15.88415mm
+47d	Distal point of largest mesio-distal crown diameter of 47	-24.33878mm	-1.50221mm	-19.52238mm
+48m	Mesial Point of 48	
+48mb	Mesial Buccal Cusp of 48	
+48vMG	Vestibular Gingival Margin of 48	
+apRot48	Apical Rotation Point of Long Axis of 48	
+48db	Distal Buccal Cusp of 48	
+48d	Distal point of largest mesio-distal crown diameter of 48	
